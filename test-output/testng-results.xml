@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9321" started-at="2019-04-25T15:39:30Z" finished-at="2019-04-25T15:39:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9321" started-at="2019-04-25T15:39:30Z" finished-at="2019-04-25T15:39:39Z">
+      <class name="com.techbeamers.testng.SeleniumWebdriverTest">
+        <test-method status="PASS" signature="startChrome()[pri:0, instance:com.techbeamers.testng.SeleniumWebdriverTest@396a51ab]" name="startChrome" is-config="true" duration-ms="5729" started-at="2019-04-25T15:39:30Z" finished-at="2019-04-25T15:39:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startChrome -->
+        <test-method status="PASS" signature="MyFirstTestNGTestCase()[pri:0, instance:com.techbeamers.testng.SeleniumWebdriverTest@396a51ab]" name="MyFirstTestNGTestCase" duration-ms="2819" started-at="2019-04-25T15:39:35Z" finished-at="2019-04-25T15:39:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MyFirstTestNGTestCase -->
+        <test-method status="PASS" signature="cleaupProc()[pri:0, instance:com.techbeamers.testng.SeleniumWebdriverTest@396a51ab]" name="cleaupProc" is-config="true" duration-ms="734" started-at="2019-04-25T15:39:38Z" finished-at="2019-04-25T15:39:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleaupProc -->
+      </class> <!-- com.techbeamers.testng.SeleniumWebdriverTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
